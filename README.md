@@ -2,9 +2,8 @@
 ## Kaggle Notebooks
 This repository contains Jupyter Notebook files (.ipynb) from various Kaggle projects I have worked on. 
 
-<a align='center'>
-  ![image](https://github.com/flyfir248/Kaggler/assets/57437701/ef54b31f-d0f0-4e78-923e-e63bb854d453)
-</a>
+<img align='center'>![image](https://github.com/flyfir248/Kaggler/assets/57437701/13672b14-4332-4ba2-808a-309f5703fc6b)</img>
+
 
 
 Kaggle is a popular platform for data science and machine learning competitions, and these notebooks showcase my data analysis, data preprocessing, machine learning models, and other data science techniques.
